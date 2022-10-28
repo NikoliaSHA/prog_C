@@ -1,0 +1,1 @@
+run: make message_hider
